@@ -1,4 +1,4 @@
-// File: /Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/page.tsx
+// File: /Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

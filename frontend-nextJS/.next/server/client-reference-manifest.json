@@ -742,6 +742,230 @@
         "async": false
       }
     },
+    "(app-client)/./app/components/Navbar/index.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Navbar/index.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Navbar/index.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Navbar/index.tsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "defaultHead": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "defaultHead",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "charSet": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "charSet",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "name": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "name",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "content": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "content",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "\"title\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"title\"",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "\"base\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"base\"",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "\"meta\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"meta\"",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "TODO(prateekbh@)": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "TODO(prateekbh@)",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "\"https": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"https",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "here": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "here",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "https": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "https",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "reduceComponentsToState": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "reduceComponentsToState",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "headManager": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "headManager",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "inAmpMode": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "inAmpMode",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "value",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./app/components/Companies/Companies.tsx": {
       "*": {
         "id": "(sc_client)/./app/components/Companies/Companies.tsx",
@@ -819,240 +1043,16 @@
         ],
         "async": false
       }
-    },
-    "(app-client)/./node_modules/next/dist/client/image.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "default",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "default",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "default",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "defaultHead": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "defaultHead",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "charSet": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "charSet",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "name": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "name",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "content": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "content",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "\"title\"": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"title\"",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "\"base\"": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"base\"",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "\"meta\"": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"meta\"",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "TODO(prateekbh@)": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "TODO(prateekbh@)",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "\"https": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"https",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "here": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "here",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "https": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "https",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "reduceComponentsToState": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "reduceComponentsToState",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "headManager": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "headManager",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "inAmpMode": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "inAmpMode",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "value": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "value",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./app/components/Navbar/index.tsx": {
-      "*": {
-        "id": "(sc_client)/./app/components/Navbar/index.tsx",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./app/components/Navbar/index.tsx",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./app/components/Navbar/index.tsx",
-        "name": "default",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
     }
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/layout": [
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/layout": [
       "static/css/app/layout.css"
     ]
   },
   "clientModules": {
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -1060,7 +1060,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -1068,7 +1068,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -1076,7 +1076,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -1084,7 +1084,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -1092,7 +1092,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -1100,7 +1100,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -1108,7 +1108,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -1116,7 +1116,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -1124,7 +1124,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -1132,7 +1132,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#TODO-APP": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#TODO-APP": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "TODO-APP",
       "chunks": [
@@ -1140,7 +1140,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#TODO-APP": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#TODO-APP": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "TODO-APP",
       "chunks": [
@@ -1148,7 +1148,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#__NA": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#__NA": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "__NA",
       "chunks": [
@@ -1156,7 +1156,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#__NA": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#__NA": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "__NA",
       "chunks": [
@@ -1164,7 +1164,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#location": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#location": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "location",
       "chunks": [
@@ -1172,7 +1172,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#location": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#location": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "location",
       "chunks": [
@@ -1180,7 +1180,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#\"http": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#\"http": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "\"http",
       "chunks": [
@@ -1188,7 +1188,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#\"http": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#\"http": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "\"http",
       "chunks": [
@@ -1196,7 +1196,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#searchParams": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#searchParams": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "searchParams",
       "chunks": [
@@ -1204,7 +1204,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#searchParams": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#searchParams": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "searchParams",
       "chunks": [
@@ -1212,7 +1212,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#pathname": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#pathname": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pathname",
       "chunks": [
@@ -1220,7 +1220,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#pathname": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#pathname": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pathname",
       "chunks": [
@@ -1228,7 +1228,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#type": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#type": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "type",
       "chunks": [
@@ -1236,7 +1236,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#type": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#type": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "type",
       "chunks": [
@@ -1244,7 +1244,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#cache": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#cache": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "cache",
       "chunks": [
@@ -1252,7 +1252,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#cache": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#cache": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "cache",
       "chunks": [
@@ -1260,7 +1260,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#status": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#status": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "status",
       "chunks": [
@@ -1268,7 +1268,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#status": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#status": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "status",
       "chunks": [
@@ -1276,7 +1276,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#data": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#data": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "data",
       "chunks": [
@@ -1284,7 +1284,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#data": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#data": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "data",
       "chunks": [
@@ -1292,7 +1292,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#subTreeData": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#subTreeData": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "subTreeData",
       "chunks": [
@@ -1300,7 +1300,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#subTreeData": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#subTreeData": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "subTreeData",
       "chunks": [
@@ -1308,7 +1308,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#parallelRoutes": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#parallelRoutes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "parallelRoutes",
       "chunks": [
@@ -1316,7 +1316,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#parallelRoutes": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#parallelRoutes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "parallelRoutes",
       "chunks": [
@@ -1324,7 +1324,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#mutable": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#mutable": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "mutable",
       "chunks": [
@@ -1332,7 +1332,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#mutable": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#mutable": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "mutable",
       "chunks": [
@@ -1340,7 +1340,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#isExternalUrl": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#isExternalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "isExternalUrl",
       "chunks": [
@@ -1348,7 +1348,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#isExternalUrl": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#isExternalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "isExternalUrl",
       "chunks": [
@@ -1356,7 +1356,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#locationSearch": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#locationSearch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "locationSearch",
       "chunks": [
@@ -1364,7 +1364,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#locationSearch": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#locationSearch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "locationSearch",
       "chunks": [
@@ -1372,7 +1372,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#back": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#back": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "back",
       "chunks": [
@@ -1380,7 +1380,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#back": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#back": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "back",
       "chunks": [
@@ -1388,7 +1388,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#forward": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#forward": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "forward",
       "chunks": [
@@ -1396,7 +1396,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#forward": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#forward": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "forward",
       "chunks": [
@@ -1404,7 +1404,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#prefetch": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#prefetch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "prefetch",
       "chunks": [
@@ -1412,7 +1412,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#prefetch": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#prefetch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "prefetch",
       "chunks": [
@@ -1420,7 +1420,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#kind": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#kind": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "kind",
       "chunks": [
@@ -1428,7 +1428,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#kind": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#kind": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "kind",
       "chunks": [
@@ -1436,7 +1436,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#replace": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#replace": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "replace",
       "chunks": [
@@ -1444,7 +1444,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#replace": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#replace": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "replace",
       "chunks": [
@@ -1452,7 +1452,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#push": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#push": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "push",
       "chunks": [
@@ -1460,7 +1460,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#push": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#push": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "push",
       "chunks": [
@@ -1468,7 +1468,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#refresh": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#refresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "refresh",
       "chunks": [
@@ -1476,7 +1476,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#refresh": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#refresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "refresh",
       "chunks": [
@@ -1484,7 +1484,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#origin": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#origin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "origin",
       "chunks": [
@@ -1492,7 +1492,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#origin": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#origin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "origin",
       "chunks": [
@@ -1500,7 +1500,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#fastRefresh": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#fastRefresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "fastRefresh",
       "chunks": [
@@ -1508,7 +1508,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#fastRefresh": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#fastRefresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "fastRefresh",
       "chunks": [
@@ -1516,7 +1516,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#router": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "router",
       "chunks": [
@@ -1524,7 +1524,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#router": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "router",
       "chunks": [
@@ -1532,7 +1532,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#(eg": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#(eg": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "(eg",
       "chunks": [
@@ -1540,7 +1540,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#(eg": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#(eg": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "(eg",
       "chunks": [
@@ -1548,7 +1548,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#url": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#url": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "url",
       "chunks": [
@@ -1556,7 +1556,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#url": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#url": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "url",
       "chunks": [
@@ -1564,7 +1564,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#tree": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#tree": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "tree",
       "chunks": [
@@ -1572,7 +1572,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#tree": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#tree": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "tree",
       "chunks": [
@@ -1580,7 +1580,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#notFound": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#notFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFound",
       "chunks": [
@@ -1588,7 +1588,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#notFound": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#notFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFound",
       "chunks": [
@@ -1596,7 +1596,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#notFoundStyles": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#notFoundStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFoundStyles",
       "chunks": [
@@ -1604,7 +1604,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#notFoundStyles": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#notFoundStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFoundStyles",
       "chunks": [
@@ -1612,7 +1612,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#asNotFound": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#asNotFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "asNotFound",
       "chunks": [
@@ -1620,7 +1620,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#asNotFound": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#asNotFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "asNotFound",
       "chunks": [
@@ -1628,7 +1628,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#pushRef": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#pushRef": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pushRef",
       "chunks": [
@@ -1636,7 +1636,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#pushRef": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#pushRef": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pushRef",
       "chunks": [
@@ -1644,7 +1644,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#canonicalUrl": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#canonicalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "canonicalUrl",
       "chunks": [
@@ -1652,7 +1652,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#canonicalUrl": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#canonicalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "canonicalUrl",
       "chunks": [
@@ -1660,7 +1660,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#sync": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#sync": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "sync",
       "chunks": [
@@ -1668,7 +1668,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#sync": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#sync": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "sync",
       "chunks": [
@@ -1676,7 +1676,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#value": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "value",
       "chunks": [
@@ -1684,7 +1684,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#value": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "value",
       "chunks": [
@@ -1692,15 +1692,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#childNodes": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
-      "name": "childNodes",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#childNodes": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#childNodes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "childNodes",
       "chunks": [
@@ -1708,7 +1700,15 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#assetPrefix": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#childNodes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "childNodes",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#assetPrefix": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "assetPrefix",
       "chunks": [
@@ -1716,7 +1716,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#assetPrefix": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#assetPrefix": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "assetPrefix",
       "chunks": [
@@ -1724,7 +1724,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#errorComponent": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/app-router.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "errorComponent",
       "chunks": [
@@ -1732,7 +1732,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#errorComponent": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/app-router.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "errorComponent",
       "chunks": [
@@ -1740,7 +1740,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -1748,7 +1748,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -1756,7 +1756,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -1764,7 +1764,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -1772,7 +1772,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -1780,7 +1780,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -1788,7 +1788,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -1796,7 +1796,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -1804,7 +1804,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -1812,7 +1812,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -1820,7 +1820,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#error": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#error": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "error",
       "chunks": [
@@ -1828,7 +1828,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#error": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#error": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "error",
       "chunks": [
@@ -1836,7 +1836,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#https": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#https": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "https",
       "chunks": [
@@ -1844,7 +1844,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#https": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#https": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "https",
       "chunks": [
@@ -1852,7 +1852,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#fontFamily": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#fontFamily": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontFamily",
       "chunks": [
@@ -1860,7 +1860,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#fontFamily": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#fontFamily": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontFamily",
       "chunks": [
@@ -1868,7 +1868,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#height": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#height": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "height",
       "chunks": [
@@ -1876,7 +1876,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#height": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#height": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "height",
       "chunks": [
@@ -1884,7 +1884,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#textAlign": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#textAlign": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "textAlign",
       "chunks": [
@@ -1892,7 +1892,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#textAlign": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#textAlign": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "textAlign",
       "chunks": [
@@ -1900,7 +1900,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#display": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#display": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "display",
       "chunks": [
@@ -1908,7 +1908,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#display": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#display": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "display",
       "chunks": [
@@ -1916,7 +1916,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#flexDirection": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#flexDirection": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "flexDirection",
       "chunks": [
@@ -1924,7 +1924,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#flexDirection": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#flexDirection": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "flexDirection",
       "chunks": [
@@ -1932,7 +1932,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#alignItems": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#alignItems": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "alignItems",
       "chunks": [
@@ -1940,7 +1940,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#alignItems": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#alignItems": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "alignItems",
       "chunks": [
@@ -1948,7 +1948,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#justifyContent": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#justifyContent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "justifyContent",
       "chunks": [
@@ -1956,7 +1956,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#justifyContent": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#justifyContent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "justifyContent",
       "chunks": [
@@ -1964,7 +1964,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#desc": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#desc": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "desc",
       "chunks": [
@@ -1972,7 +1972,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#desc": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#desc": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "desc",
       "chunks": [
@@ -1980,7 +1980,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#text": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#text": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "text",
       "chunks": [
@@ -1988,7 +1988,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#text": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#text": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "text",
       "chunks": [
@@ -1996,7 +1996,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#fontSize": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#fontSize": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontSize",
       "chunks": [
@@ -2004,7 +2004,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#fontSize": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#fontSize": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontSize",
       "chunks": [
@@ -2012,7 +2012,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#fontWeight": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#fontWeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontWeight",
       "chunks": [
@@ -2020,7 +2020,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#fontWeight": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#fontWeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontWeight",
       "chunks": [
@@ -2028,7 +2028,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#lineHeight": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#lineHeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "lineHeight",
       "chunks": [
@@ -2036,7 +2036,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#lineHeight": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#lineHeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "lineHeight",
       "chunks": [
@@ -2044,7 +2044,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#margin": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#margin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "margin",
       "chunks": [
@@ -2052,7 +2052,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#margin": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#margin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "margin",
       "chunks": [
@@ -2060,7 +2060,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#reset": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2068,7 +2068,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#reset": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2076,7 +2076,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#style": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#style": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "style",
       "chunks": [
@@ -2084,7 +2084,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#style": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#style": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "style",
       "chunks": [
@@ -2092,7 +2092,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#\"Digest": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#\"Digest": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "\"Digest",
       "chunks": [
@@ -2100,7 +2100,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#\"Digest": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#\"Digest": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "\"Digest",
       "chunks": [
@@ -2108,7 +2108,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#errorComponent": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorComponent",
       "chunks": [
@@ -2116,7 +2116,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#errorComponent": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorComponent",
       "chunks": [
@@ -2124,7 +2124,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#errorStyles": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#errorStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorStyles",
       "chunks": [
@@ -2132,7 +2132,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#errorStyles": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#errorStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorStyles",
       "chunks": [
@@ -2140,7 +2140,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#value": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/error-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "value",
       "chunks": [
@@ -2148,7 +2148,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#value": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/error-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "value",
       "chunks": [
@@ -2156,7 +2156,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -2164,7 +2164,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -2172,7 +2172,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -2180,7 +2180,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -2188,7 +2188,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -2196,7 +2196,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -2204,15 +2204,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
-      "name": "RedirectErrorBoundary",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -2220,7 +2212,15 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -2228,7 +2228,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -2236,7 +2236,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#redirect": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#redirect": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirect",
       "chunks": [
@@ -2244,7 +2244,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#redirect": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#redirect": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirect",
       "chunks": [
@@ -2252,7 +2252,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#redirectType": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#redirectType": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirectType",
       "chunks": [
@@ -2260,7 +2260,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#redirectType": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#redirectType": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirectType",
       "chunks": [
@@ -2268,7 +2268,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#reset": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2276,7 +2276,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#reset": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2284,7 +2284,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#router": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "router",
       "chunks": [
@@ -2292,7 +2292,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#router": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "router",
       "chunks": [
@@ -2300,7 +2300,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#value": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/redirect-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "value",
       "chunks": [
@@ -2308,7 +2308,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#value": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/redirect-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "value",
       "chunks": [
@@ -2316,7 +2316,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -2324,7 +2324,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -2332,7 +2332,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -2340,7 +2340,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -2348,7 +2348,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -2356,7 +2356,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -2364,7 +2364,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -2372,7 +2372,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -2380,7 +2380,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -2388,7 +2388,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -2396,7 +2396,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -2404,7 +2404,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -2412,7 +2412,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -2420,7 +2420,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -2428,7 +2428,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -2436,7 +2436,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -2444,7 +2444,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -2452,7 +2452,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -2460,7 +2460,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -2468,7 +2468,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -2476,7 +2476,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -2484,7 +2484,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -2492,7 +2492,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -2500,7 +2500,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -2508,15 +2508,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
-      "name": "SearchParamsContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -2524,7 +2516,15 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -2532,7 +2532,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -2540,7 +2540,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -2548,7 +2548,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -2556,7 +2556,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -2564,7 +2564,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -2572,15 +2572,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
-      "name": "ServerInsertedHTMLContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -2588,7 +2580,15 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -2596,7 +2596,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -2604,7 +2604,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/layout-router.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -2612,7 +2612,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -2620,7 +2620,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/layout-router.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -2628,7 +2628,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/layout-router.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -2636,7 +2636,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/layout-router.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -2644,7 +2644,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -2652,7 +2652,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -2660,7 +2660,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -2668,7 +2668,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/render-from-template-context.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -2676,7 +2676,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -2684,7 +2684,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -2692,7 +2692,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -2700,7 +2700,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -2708,7 +2708,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -2716,7 +2716,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -2724,7 +2724,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -2732,7 +2732,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -2740,7 +2740,7 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -2748,504 +2748,504 @@
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/components/Companies/Companies.tsx": {
-      "id": "(app-client)/./app/components/Companies/Companies.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/components/Companies/Companies.tsx#": {
-      "id": "(app-client)/./app/components/Companies/Companies.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/components/Companies/Companies.tsx#default": {
-      "id": "(app-client)/./app/components/Companies/Companies.tsx",
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/globals.css#": {
+      "id": "null",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
+        "static/css/app/layout.css"
+      ]
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/components/Courses/index.tsx": {
-      "id": "(app-client)/./app/components/Courses/index.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/components/Courses/index.tsx#": {
-      "id": "(app-client)/./app/components/Courses/index.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/components/Courses/index.tsx#default": {
-      "id": "(app-client)/./app/components/Courses/index.tsx",
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/slick-carousel/slick/slick-theme.css#": {
+      "id": "null",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
+        "static/css/app/layout.css"
+      ]
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/components/Testimonials/index.tsx": {
-      "id": "(app-client)/./app/components/Testimonials/index.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/components/Testimonials/index.tsx#": {
-      "id": "(app-client)/./app/components/Testimonials/index.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/components/Testimonials/index.tsx#default": {
-      "id": "(app-client)/./app/components/Testimonials/index.tsx",
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/slick-carousel/slick/slick.css#": {
+      "id": "null",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/components/Navbar/index.tsx": {
+      "id": "(app-client)/./app/components/Navbar/index.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/image.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/components/Navbar/index.tsx#": {
+      "id": "(app-client)/./app/components/Navbar/index.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/components/Navbar/index.tsx#default": {
+      "id": "(app-client)/./app/components/Navbar/index.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/image.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/image.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/image.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/image.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/image.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/link.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/link.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/link.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/link.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/client/link.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/client/link.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#default": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#defaultHead": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#charSet": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#charSet": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#charSet": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#charSet": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#name": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#name": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#name": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#name": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#content": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#content": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#content": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#content": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#\"title\"": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#\"title\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#\"title\"": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#\"title\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#\"base\"": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#\"base\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#\"base\"": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#\"base\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#\"meta\"": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#\"meta\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#\"meta\"": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#\"meta\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#TODO(prateekbh@)": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#TODO(prateekbh@)": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#TODO(prateekbh@)": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#TODO(prateekbh@)": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#\"https": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#\"https": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#\"https": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#\"https": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#here": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#here": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#here": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#here": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#https": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#https": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#https": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#https": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#reduceComponentsToState": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#reduceComponentsToState": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#reduceComponentsToState": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#reduceComponentsToState": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#headManager": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#headManager": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#headManager": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#headManager": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#inAmpMode": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#inAmpMode": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#inAmpMode": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#inAmpMode": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#value": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/shared/lib/head.js#value": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#value": {
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/node_modules/next/dist/esm/shared/lib/head.js#value": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/slick-carousel/slick/slick-theme.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/node_modules/slick-carousel/slick/slick.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/components/Navbar/index.tsx": {
-      "id": "(app-client)/./app/components/Navbar/index.tsx",
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/components/Companies/Companies.tsx": {
+      "id": "(app-client)/./app/components/Companies/Companies.tsx",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/components/Navbar/index.tsx#": {
-      "id": "(app-client)/./app/components/Navbar/index.tsx",
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/components/Companies/Companies.tsx#": {
+      "id": "(app-client)/./app/components/Companies/Companies.tsx",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "/Users/mohammednafih/Desktop/E-learning full-stack/frontend-nextJS/app/components/Navbar/index.tsx#default": {
-      "id": "(app-client)/./app/components/Navbar/index.tsx",
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/components/Companies/Companies.tsx#default": {
+      "id": "(app-client)/./app/components/Companies/Companies.tsx",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/components/Courses/index.tsx": {
+      "id": "(app-client)/./app/components/Courses/index.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/components/Courses/index.tsx#": {
+      "id": "(app-client)/./app/components/Courses/index.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/components/Courses/index.tsx#default": {
+      "id": "(app-client)/./app/components/Courses/index.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/components/Testimonials/index.tsx": {
+      "id": "(app-client)/./app/components/Testimonials/index.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/components/Testimonials/index.tsx#": {
+      "id": "(app-client)/./app/components/Testimonials/index.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/mohammednafih/Desktop/E-learning-Fullstack/frontend-nextJS/app/components/Testimonials/index.tsx#default": {
+      "id": "(app-client)/./app/components/Testimonials/index.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     }
