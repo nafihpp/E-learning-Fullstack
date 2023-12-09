@@ -20,7 +20,7 @@ interface DataType {
 
 const postData: DataType[] = [
     {
-        heading: 'Full stack modern',
+        heading: 'Wordpress',
         heading2: 'javascript',
         name: "Colt stelle",
         imgSrc: '/assets/courses/courseone.png',
@@ -30,7 +30,7 @@ const postData: DataType[] = [
         rating: 4.7,
     },
     {
-        heading: 'Design system',
+        heading: 'Frontend Devc',
         heading2: 'with React programme',
         name: "Colt stelle",
         imgSrc: '/assets/courses/coursetwo.png',
@@ -137,9 +137,7 @@ export default class MultipleItems extends Component {
                                 <div className='bg-white m-3 px-3 pt-3 pb-12 my-20 shadow-courses rounded-2xl'>
                                     <div className="relative rounded-3xl">
                                         <Image src={items.imgSrc} alt="gaby" width={389} height={262} className="m-auto clipPath" />
-                                        <div className="absolute right-5 -bottom-2 bg-ultramarine rounded-full p-6">
-                                            <h3 className="text-white uppercase text-center text-sm font-medium">best <br /> seller</h3>
-                                        </div>
+                                     
                                     </div>
 
                                     <div className="px-3">
@@ -161,9 +159,7 @@ export default class MultipleItems extends Component {
                                                     <StarIcon className="h-5 w-5 text-gold" />
                                                 </div>
                                             </div>
-                                            <div>
-                                                <h3 className="text-3xl font-medium">${items.price}</h3>
-                                            </div>
+                                         
                                         </div>
 
                                         <hr style={{ color: "#C4C4C4" }} />

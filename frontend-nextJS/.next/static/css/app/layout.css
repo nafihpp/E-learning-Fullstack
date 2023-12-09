@@ -440,9 +440,6 @@ video {
   top: 0px;
   bottom: 0px;
 }
-.-bottom-2{
-  bottom: -0.5rem;
-}
 .bottom-\[102px\]{
   bottom: 102px;
 }
@@ -451,9 +448,6 @@ video {
 }
 .right-0{
   right: 0px;
-}
-.right-5{
-  right: 1.25rem;
 }
 .right-\[84px\]{
   right: 84px;
@@ -1019,9 +1013,6 @@ video {
 }
 .font-semibold{
   font-weight: 600;
-}
-.uppercase{
-  text-transform: uppercase;
 }
 .leading-6{
   line-height: 1.5rem;
